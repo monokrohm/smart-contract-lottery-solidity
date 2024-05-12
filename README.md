@@ -1,18 +1,3 @@
-## Documentation
-
-A proveably random smart contract lottery.
-
-### Concept
-
-1. Users can enter by paying for a ticket
-
-    1.
-
-2. Using Chainlink VRF & Chainlink Automation
-
-    1. Chainlink VRF -> Randomness
-    2. Chainlink Automation -> Time Based Trigger
-
 ## Quickstart
 
 ```
