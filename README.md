@@ -1,8 +1,8 @@
 ## Quickstart
 
 ```
-git clone https://github.com/monokrohm/fund-me-solidity.git
-cd foundry-fund-me-f23
+git clone https://github.com/monokrohm/smart-contract-lottery-solidity.git
+cd smart-contract-lottery-solidity
 forge build
 ```
 
